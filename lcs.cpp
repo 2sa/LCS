@@ -20,7 +20,7 @@ int main()
 	{
 		for (int j = 0; j < b.length(); ++j)
 		{
-			if (a[i] == a[j])
+			if (a[i] == b[j])
 			{
 				if (i > 0 && j > 0)
 				{
